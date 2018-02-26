@@ -1,4 +1,4 @@
-<h5 align="center"><img src="https://camo.githubusercontent.com/fcccdd4ab52e10be669d69d10a3180b212edb352/687474703a2f2f692e696d6775722e636f6d2f536c62767436352e706e67"></h5>
+<h5 align="center"><img src="https://github.com/wiranegara777/komdat-clumsy-bird/img/screenshot1.png"></h5>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
@@ -98,6 +98,9 @@ $ https://localhost:8000
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
 
+
+![Halaman sebelum sign up](https://github.com/wiranegara777/komdat-clumsy-bird/img/screenshot3.png)
+
    Aturan Permainan :
 
 1. **Bird** akan mati jika menyentuh dinding.
@@ -109,39 +112,28 @@ $ https://localhost:8000
   - Hindari dinding yang menghalangi **Bird**
   - Raihlah Score setinggi mungkin.
 
-![Halaman sebelum sign up](https://github.com/airjyp/Komdat---Oxwall/blob/master/Screenshots/halaman%20sebelum%20login.png)
+![Halaman sebelum sign up](https://github.com/wiranegara777/komdat-clumsy-bird/img/screenshot2.png)
 
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
 
-**Oxwall** ditulis dalam bahasa pemrograman PHP yang support untuk penggunaan MySQL. **Oxwall** merupakan salah satu aplikasi web jejaring sosial media (CMS) yang cukup simple dan mudah digunakan dengan kelebihan diantaranya :
+**Clumsy Bird** ditulis dalam bahasa pemrograman Framework Javascript yaitu NodeJs, sehingga memiliki beberapa kelebihan :
 - Tampilan cukup simple (minimalist) dan *light* saat digunakan.
-- Tidak menggunakan memori terlalu besar.
+- Penggunaan memori tidak terlalu besar.
 - Design aplikasi yang responsif, sehingga dapat digunakan pada berbagai platforms.
-- Fitur **Search** yang cukup detail, dapat mencari berdasarkan kriteria tertentu.
-- Dapat dikustomisasi baik untuk situs keluarga, forum, maupun jaringan sosial secara enterprise.
+- Gameplay permainan yang cukup sederhana.
 
-Namun, setiap aplikasi pasti memiliki kekurangan dari segi tertentu, Kekurangan dari **Oxwall** ini adalah :
-- Dari segi developer, aplikasi ini belum up-to-date, banyak fitur yang belum di*improve* seiring dengan teknologi aplikasi saat ini sehingga Oxwall tidak lebih baik dari aplikasi yang sudah berkembang saat ini.
-- Tidak ada pengaturan yang baik pada pengelolaan privasi pengguna. Siapapun dapat melihat aktivitas maupun profil siapa saja.
-- Dalam segi UX, pada saat melakukan sesi register terlalu banyak melakukan input data yang tidak dibutuhkan.
-
-
-
-Apabila kira membandingkan **Oxwall** dengan CMS dengan jejaring sosial media seperti Facebook, CMS ini memiliki beberapa keunggulan dan kelemahan. Berikut adalah beberapa perbandingan antara Oxwall dengan Facebook ini :
-
-- **Oxwall** menggunakan memori yang lebih ringan daripada **Facebook** karena modulnya lebih sedikit.
-- **Facebook** memiliki plugin yang lengkap dan mendukung semua kustomisasi pada setiap fitur dibandingkan **Oxwall**.
-- **Oxwall** memiliki fitur search yang detail berdasarkan kriteria tertentu, berbeda dengan **Facebook**
-- **Facebook** memiliki pengguna yang jauh lebih banyak daripada **Oxwall** yang aktif pada forum-forum diskusi atau jejaring sosial yang bersifat enterprise.
-
+Namun **Clumsy-Bird** juga memiliki kelemahan diantaranya:
+1. Design level yang sederhana.
+    - Clumsy-Bird tidak memiliki level, sehingga user akan terus bermain secara *infinite loop* sampai mati.
+    - Clumsy-Bird juga tak memiliki tingkat kesulitan, sehingga game akan berjalan dengan monoton.
+2. minimnya fitur dalam game.
+    - pengaturan yang dimiliki Clumsy-Bird hanyalah sebuah tombol untuk mengatur *ON/OFF* suara (Mute).
+3. tidak ada fitur *Account* untuk menyimpan hasil permainan.
+    - Clumsy-Bird hanya bisa dilakukan ketika browser mengakses game, sehingga jika browser di restart. semua progress akan hilang.
 
 # Referensi
 [`^ kembali ke atas ^`](#)
 
-1. [About Clumsy-Bird](https://www.oxwall.com/about) - Oxwall
-2. [Apache Override](https://www.digitalocean.com/community/tutorials/how-to-rewrite-urls-with-mod_rewrite-for-apache-on-ubuntu-16-04) - DigitalOcean
-3. [Mysql PHP Problem](https://developers.oxwall.com/forum/topic/55994?page=1) - Oxwall Forum
-4. [Cron Jobs Config](https://wiki.oxwall.com/install:cron) - Oxwall Wiki
-5. [Oxwall Review](https://alternativeto.net/software/oxwall/reviews/) - Alternativeto
+1. [About Clumsy-Bird](https://github.com/ellisonleao/clumsy-bird) - Clumsy-Bird
