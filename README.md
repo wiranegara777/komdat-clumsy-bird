@@ -1,4 +1,4 @@
-<h5 align="center"><img src="https://github.com/wiranegara777/komdat-clumsy-bird/img/screenshot1.png"></h5>
+<h5 align="center"><img src="https://github.com/wiranegara777/komdat-clumsy-bird/tree/master/img/screenshot1.png"></h5>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
@@ -99,7 +99,7 @@ $ https://localhost:8000
 [`^ kembali ke atas ^`](#)
 
 
-![Halaman sebelum sign up](https://github.com/wiranegara777/komdat-clumsy-bird/img/screenshot3.png)
+![Halaman sebelum sign up](https://github.com/wiranegara777/komdat-clumsy-bird/tree/master/img/screenshot3.png)
 
    Aturan Permainan :
 
@@ -112,7 +112,7 @@ $ https://localhost:8000
   - Hindari dinding yang menghalangi **Bird**
   - Raihlah Score setinggi mungkin.
 
-![Halaman sebelum sign up](https://github.com/wiranegara777/komdat-clumsy-bird/img/screenshot2.png)
+![Halaman sebelum sign up](https://github.com/wiranegara777/komdat-clumsy-bird/tree/master/img/screenshot2.png)
 
 
 # Pembahasan
