@@ -1,5 +1,6 @@
 <h5 align="center"><img src="https://github.com/airjyp/Komdat---Oxwall/blob/master/konfigurasi/user_setting.png"></h5>
-![Send pm](https://github.com/airjyp/Komdat---Oxwall/blob/master/Screenshots/send%20pm%20air.png)
+![Send pm](https://github.com/airjyp/komdat-clumsy-bird/blob/master/img/screenshot1.png)
+
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 
