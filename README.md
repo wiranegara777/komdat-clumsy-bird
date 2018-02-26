@@ -1,5 +1,5 @@
-<h5 align="center"><img src="https://github.com/wiranegara777/komdat-clumsy-bird/blob/master/img/screenshot1.png"></h5>
-
+<h5 align="center"><img src="https://github.com/wiranegara777/komdat-clumsy-bird/blob/master/img/screenshot1.png?raw=true"></h5>
+                             
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 
