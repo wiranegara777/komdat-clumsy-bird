@@ -21,60 +21,66 @@
 ```
 $ sudo apt update
 ```
+2. Tambahkan Port Forwarding dari Host dengan Port:1111 ke Guest Port: 8001 pada Virtualbox
+<h5 align="center"><img src="https://github.com/wiranegara777/komdat-clumsy-bird/blob/master/img/screenshot5.png?raw=true"></h5>
 
-2. Install ssh pada Ubuntu server
+3. Install ssh pada Ubuntu server
 ```
 $ sudo apt install ssh
 ```
 
-3. Login ke dalam server menggunakan SSH
+4. Login ke dalam server menggunakan SSH
 ```
 $ ssh student@localhost –p 2222
 ```
 
-4. Install NodeJs.
+5. Install NodeJs.
 ```
 $ sudo apt-get install nodejs
 $ sudo apt-get install npm
 ```
-5. Install Grunt dan CLI Grunt
+6. Install Grunt dan CLI Grunt
 ```
 $ sudo npm -g install grunt
 $ sudo npm install -g grunt-cli
 ```
-6. Install minimatch Dependencies Grunt .
+7. Install minimatch Dependencies Grunt .
 ```
 $ sudo npm install -g minimatch
 ```
-7. Install Git.
+8. Install Git.
 ```
 $ sudo apt-get install git-core
 ```
-8. Menghubungkan folder nodejs dan node
+9. Menghubungkan folder nodejs dan node
 ```
 $ sudo ln -s /usr/bin/nodejs /usr/bin/node
 
 ```
-9. Masuk ke folder clumsy-bird yang telah di unduh di direktori home server
+10. Download Clumsy-Bird dari github
+```
+$ sudo git clone https://github.com/ellisonleao/clumsy-bird
+```
+11. Masuk ke folder clumsy-bird yang telah di unduh di direktori home server
 ```
 $ cd clumsy-bird-master/
 ```
 
-10. Install Clumsy-Bird.
+12. Install Clumsy-Bird.
 ```
 $ sudo npm install
 $ sudo npm install grunt --save-dev
 
 ```
 
-12. Jalankan Server Game Clumsy-Bird.
+13. Jalankan Server Game Clumsy-Bird.
 ```
 $ grunt connect
 ```
 
-13. Masukkan Address localhost:8000 di Browser untuk mengakses Game.
+13. Masukkan Address localhost:1111 di Browser untuk mengakses Game.
 ```
-$ https://localhost:8000
+$ https://localhost:1111
 ```
 # Konfigurasi
 
