@@ -78,7 +78,7 @@ $ sudo npm install grunt --save-dev
 $ grunt connect
 ```
 
-13. Masukkan Address localhost:1111 di Browser untuk mengakses Game.
+14. Masukkan Address localhost:1111 di Browser untuk mengakses Game.
 ```
 $ https://localhost:1111
 ```
